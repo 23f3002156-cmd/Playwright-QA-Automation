@@ -1,0 +1,11 @@
+{
+  "name": "playwright-qa",
+  "version": "1.0.0",
+  "description": "Automated QA with Playwright",
+  "scripts": {
+    "test": "node scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.42.0"
+  }
+}
